@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+.idea/
+.vscode/
+
+PROJECT_STATUS.md
+*.bak
+*~

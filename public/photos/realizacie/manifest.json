@@ -1,0 +1,159 @@
+{
+  "section": "Naše realizácie",
+  "note": "Each of the 17 source attachments is used once. userName is set only where the photo matches a described frame. The later nine are the remaining attachments, ordered so similar basin details sit between wider views.",
+  "photos": [
+    {
+      "file": "01-obyvacka-seda-pohovka.png",
+      "source": "f3f5bbff-216f-44a8-83b9-aaf51f52f9a8.png",
+      "userName": "08.png",
+      "group": "initial",
+      "width": 1448,
+      "height": 1086,
+      "alt": "Obývačka so sivou sedačkou, dreveným stolom a televízorom na nízkej skrinke."
+    },
+    {
+      "file": "02-kuchyna-bezova-laty.png",
+      "source": "93d6fa6e-54b8-4241-936b-0aca73813b09.png",
+      "userName": "02.png",
+      "group": "initial",
+      "width": 1774,
+      "height": 887,
+      "alt": "Béžová kuchyňa s vstavanými rúrami a drevenou latkovou stenou s televízorom."
+    },
+    {
+      "file": "03-umyvadlo-led-zrkadlo.png",
+      "source": "0b5fb3cd-e981-46ba-8940-cb8ae70a1047.png",
+      "userName": "download-2.png",
+      "group": "initial",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Biele umývadlo na tmavej doske, čierna batéria a okrúhle zrkadlo s osvetlením."
+    },
+    {
+      "file": "04-chodba-biela-ulozisko.png",
+      "source": "a7938bc5-0a77-440c-bb36-3d42b948956a.png",
+      "userName": "06.png",
+      "group": "initial",
+      "width": 1672,
+      "height": 941,
+      "alt": "Široká chodba s bielym úložným priestorom, rastlinou a lavicou."
+    },
+    {
+      "file": "05-kuchyna-zlte-stolicky.png",
+      "source": "cad13131-a7af-4eba-8d0d-1bf71fe9b829.png",
+      "userName": "09.png",
+      "group": "initial",
+      "width": 941,
+      "height": 1672,
+      "alt": "Biela kuchyňa s jedálenským stolom a žltými stoličkami."
+    },
+    {
+      "file": "06-sprcha-cierny-ram.png",
+      "source": "acf51542-0009-4a54-845a-81db6654c62c.png",
+      "userName": "exec-f8276098",
+      "group": "initial",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Rohový sprchový kút s čiernym rámom a dažďovou hlavicou."
+    },
+    {
+      "file": "07-spalna-ruzove.png",
+      "source": "4b494ad0-cf3b-48e4-a0b6-15d28f0b9d39.png",
+      "userName": "07.png",
+      "group": "initial",
+      "width": 1672,
+      "height": 941,
+      "alt": "Svetlá spálňa s ružovými doplnkami, posteľou a oknom so žalúziami."
+    },
+    {
+      "file": "08-kreslo-knihovna.png",
+      "source": "dff675c1-a62a-4f78-93ff-f54dbe1f4e36.png",
+      "userName": "05.png",
+      "group": "initial",
+      "width": 852,
+      "height": 1846,
+      "alt": "Sivé kreslo pri drevenej knižnici a bielej komode."
+    },
+    {
+      "file": "09-kupelna-drevo-celok.png",
+      "source": "d73ab09f-8f44-4060-8a97-af34c1301639.png",
+      "userName": null,
+      "group": "more",
+      "width": 971,
+      "height": 1619,
+      "alt": "Kúpeľňa s drevenou skrinkou, preskleným sprchovým kútom a závesným WC."
+    },
+    {
+      "file": "10-umyvadlo-cierna-misa.png",
+      "source": "4c76bdc0-24fc-4766-af16-33e9fced6aa7.png",
+      "userName": null,
+      "group": "more",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Čierne okrúhle umývadlo na tmavej doske a zrkadlo v ozdobnom ráme."
+    },
+    {
+      "file": "11-kupelna-pruhy.png",
+      "source": "cc71348c-d525-45bb-b1e3-984e745392eb.png",
+      "userName": null,
+      "group": "more",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Kúpeľňa s pruhovaným obkladom, bielou skrinkou a kúpeľňovým rebríkom."
+    },
+    {
+      "file": "12-spalna-latova-stena.png",
+      "source": "3681c710-54d3-4268-aecc-b1b43c2fa997.png",
+      "userName": null,
+      "group": "more",
+      "width": 1672,
+      "height": 941,
+      "alt": "Spálňa s drevenou latkovou stenou, televízorom a béžovými závesmi."
+    },
+    {
+      "file": "13-umyvadlo-biela-skrinka.png",
+      "source": "1cf2981e-1567-4227-a840-9c202aac4045.png",
+      "userName": null,
+      "group": "more",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Biela skrinka s čiernou doskou, hranatým umývadlom a čiernou batériou."
+    },
+    {
+      "file": "14-umyvadlo-detail.png",
+      "source": "74766467-1fd2-465e-9213-abed460a9369.png",
+      "userName": null,
+      "group": "more",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Detail bieleho hranatého umývadla s čiernou batériou."
+    },
+    {
+      "file": "15-wc-dreveny-obklad.png",
+      "source": "10c70caa-5013-4db9-a395-21210c4b7aaa.png",
+      "userName": null,
+      "group": "more",
+      "width": 971,
+      "height": 1619,
+      "alt": "Závesné WC pri drevenom obklade a béžovej dlažbe."
+    },
+    {
+      "file": "16-predsien-rastliny.png",
+      "source": "b5bd6872-35f6-4770-801a-7983bd1916e1.png",
+      "userName": null,
+      "group": "more",
+      "width": 852,
+      "height": 1846,
+      "alt": "Predsieň s rastlinou, bielymi skrinkami a vešiakmi."
+    },
+    {
+      "file": "17-kupelna-drevo-sprcha.png",
+      "source": "b5d71afa-3299-4d65-a228-592c4eb81319.png",
+      "userName": null,
+      "group": "more",
+      "width": 971,
+      "height": 1619,
+      "alt": "Drevená kúpeľňová skrinka, osvetlené zrkadlo a presklený sprchový kút."
+    }
+  ]
+}
