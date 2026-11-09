@@ -5,7 +5,7 @@ import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 import { PinPageTop } from "@/components/cennik-page-scroll";
 import { ScopeGrid } from "@/components/scope-grid";
-import { serviceConsultClass, serviceContent, ServiceCrumbs, ServiceFaq, ServiceMore } from "@/components/service-page";
+import { serviceApproachGrid, serviceConsultClass, serviceContent, serviceScopeSection, ServiceCrumbs, ServiceFaq, ServiceMore } from "@/components/service-page";
 import { SketchFade } from "@/components/sketch-fade";
 
 export const metadata: Metadata = {
@@ -107,7 +107,7 @@ export default function MasonryPage() {
             </div>
           </header>
 
-          <section className={`${serviceContent} pt-8 pb-8 lg:pt-10 lg:pb-10`} aria-labelledby="mur-rozsah">
+          <section className={serviceScopeSection} aria-labelledby="mur-rozsah">
             <h2 id="mur-rozsah" className="text-2xl font-semibold tracking-[-0.03em] sm:text-3xl">
               Práce, ktoré pripravia priestor na bývanie.
             </h2>
@@ -118,7 +118,7 @@ export default function MasonryPage() {
           </section>
 
           <section aria-labelledby="mur-postup">
-            <div className={`${serviceContent} grid items-center gap-5 py-7 sm:gap-6 lg:grid-cols-2 lg:gap-12 lg:py-8`}>
+            <div className={serviceApproachGrid}>
               <div className="min-w-0">
                 <h2
                   id="mur-postup"

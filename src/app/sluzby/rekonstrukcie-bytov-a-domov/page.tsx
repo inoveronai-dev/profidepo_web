@@ -185,7 +185,6 @@ export default function ReconstructionPage() {
                     style={{ objectPosition: "center 40%" }}
                   />
                 </div>
-                <figcaption className="mt-2 text-[13px] text-[#5C6560]">Ilustračný záber</figcaption>
               </figure>
             </div>
           </section>

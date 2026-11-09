@@ -5,7 +5,7 @@ import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 import { PinPageTop } from "@/components/cennik-page-scroll";
 import { ScopeGrid } from "@/components/scope-grid";
-import { serviceConsultClass, serviceContent, ServiceCrumbs, ServiceFaq, ServiceMore } from "@/components/service-page";
+import { serviceApproachGrid, serviceConsultClass, serviceContent, serviceScopeSection, ServiceCrumbs, ServiceFaq, ServiceMore } from "@/components/service-page";
 import { SketchFade } from "@/components/sketch-fade";
 
 export const metadata: Metadata = {
@@ -21,7 +21,7 @@ const scope = [
   },
   {
     title: "Zásuvky a ich presuny",
-    text: "Zapájanie zásuviek pre napätia 240 V a 400 V a drobné presuny existujúcich zásuviek.",
+    text: "Zapájanie zásuviek pre napätia od 240 V do 400 V a drobné presuny existujúcich zásuviek.",
   },
   {
     title: "Svietidlá",
@@ -103,7 +103,7 @@ export default function UtilitiesPage() {
             </div>
           </header>
 
-          <section className={`${serviceContent} pt-8 pb-8 lg:pt-10 lg:pb-10`} aria-labelledby="rozvody-rozsah">
+          <section className={serviceScopeSection} aria-labelledby="rozvody-rozsah">
             <h2 id="rozvody-rozsah" className="text-2xl font-semibold tracking-[-0.03em] sm:text-3xl">
               Elektrina aj voda v jednom pláne.
             </h2>
@@ -114,7 +114,7 @@ export default function UtilitiesPage() {
           </section>
 
           <section aria-labelledby="rozvody-plan">
-            <div className={`${serviceContent} grid items-center gap-5 py-7 sm:gap-6 lg:grid-cols-2 lg:gap-12 lg:py-8`}>
+            <div className={serviceApproachGrid}>
               <div className="min-w-0">
                 <h2
                   id="rozvody-plan"

@@ -2,6 +2,12 @@ import Link from "next/link";
 
 export const serviceContent = "mx-auto w-full max-w-[1440px] px-5 sm:px-6 lg:px-[72px]";
 
+/** Scope block on the four illustration service pages. Bottom padding is the gap into the approach section. */
+export const serviceScopeSection = `${serviceContent} pt-8 pb-4 lg:pt-10 lg:pb-6`;
+
+/** Text and illustration band. Vertical padding is shared by all four pages. */
+export const serviceApproachGrid = `${serviceContent} grid items-center gap-5 py-4 sm:gap-6 lg:grid-cols-2 lg:gap-12`;
+
 export const serviceConsultClass =
   "inline-flex h-12 items-center rounded-lg bg-[#42634C] px-5 text-[15px] font-medium text-white transition-colors hover:bg-[#36543f] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#42634C]";
 
@@ -38,10 +44,10 @@ export function ServiceMore({
   open?: boolean;
 }) {
   return (
-    <section className={`${serviceContent} pt-8 pb-2 lg:pt-10`} aria-labelledby={id}>
+    <section className={`${serviceContent} pt-4 pb-2 lg:pt-6`} aria-labelledby={id}>
       <details className="service-more" open={open}>
         <summary>
-          <h2 id={id} className="text-2xl font-semibold tracking-[-0.03em] text-[#1E3A2C] sm:text-3xl">
+          <h2 id={id} className="service-more-title text-2xl font-semibold tracking-[-0.03em] text-[#1E3A2C] sm:text-3xl">
             {title}
           </h2>
           <span className="service-icon" aria-hidden="true" />
@@ -51,7 +57,7 @@ export function ServiceMore({
             <li key={item}>{item}</li>
           ))}
         </ul>
-        <p className="mt-4 text-sm leading-relaxed text-[#5C6560]">{note}</p>
+        <p className="service-more-note">{note}</p>
       </details>
     </section>
   );
@@ -68,17 +74,17 @@ export function ServiceFaq({
 }) {
   return (
     <section className={`${serviceContent} pt-8 lg:pt-12`} aria-labelledby={id}>
-      <h2 id={id} className="text-2xl font-semibold tracking-[-0.03em] sm:text-3xl">
+      <h2 id={id} className="text-2xl font-semibold tracking-[-0.03em] text-[#1E3A2C] sm:text-3xl">
         {title}
       </h2>
-      <div className="mt-3 border-t border-[#42634C]/10">
+      <div className="service-faq-panel">
         {items.map((item) => (
           <details key={item.question} className="service-faq">
             <summary>
-              <span className="text-base font-medium text-[#1E3A2C] sm:text-lg">{item.question}</span>
+              <span className="service-faq-q">{item.question}</span>
               <span className="service-icon" aria-hidden="true" />
             </summary>
-            <p className="pb-4 text-base leading-relaxed text-[#2A2E2C]/80">{item.answer}</p>
+            <p className="service-faq-a">{item.answer}</p>
           </details>
         ))}
       </div>
