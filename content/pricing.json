@@ -1,0 +1,1161 @@
+{
+  "note": "Práce, subdodávky a komplety na kľúč. Pri kompletných rekonštrukciách ponúkame individuálne ceny.",
+  "sections": [
+    {
+      "id": "sanacie",
+      "title": "Sanácie a búracie práce",
+      "items": [
+        {
+          "title": "Demontáž umakartového bytového jadra a rozvodov",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "200 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Demontáž bytového jadra s oceľovou konštrukciou",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "250 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Demontáž vane / sprchového kútu",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "70 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Demontáž kombi WC / umývadla",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "18 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Odstránenie drevených/sadrokartónových priečok",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "10,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Odstránenie tehlovej priečky do 100 mm",
+          "description": "S použitím techniky na rezanie a sekanie. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "12,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Osekanie dlažby a obkladov",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "9,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Odstránenie podláh (PVC, parkety, plávajúce)",
+          "description": "Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "4,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Odstránenie tapiet",
+          "description": "Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "4,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Oškrabanie starých náterov",
+          "description": "Na omietku, prípadne na panel, ak omietka nebola.",
+          "prices": [
+            {
+              "amount": "5,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Oškrabanie starých olejových soklových náterov",
+          "description": "Na omietku, prípadne na panel, ak omietka nebola.",
+          "prices": [
+            {
+              "amount": "15,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Osekanie plste, lepenky a lepidiel z betónu",
+          "description": "Ručné spracovanie.",
+          "prices": [
+            {
+              "amount": "10,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Demontáž skrutkovanej zárubne",
+          "description": "Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "18,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Vyrezanie zamurovanej zárubne z tehly",
+          "description": "S použitím techniky na rezanie a sekanie. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "40 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Vyrezanie zaliatej zárubne z panela",
+          "description": "Pri hrúbke panelu do 6 cm. Pri hrubšej stene cena dohodou. S použitím techniky na rezanie a sekanie. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "75 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Vynesenie stavebnej sutiny alebo dreveného odpadu",
+          "description": "Vynesenie odpadu z bytu pred bytovku. Práca do 3 hodín. Bez odvozu.",
+          "prices": [
+            {
+              "amount": "130,00 €"
+            }
+          ]
+        },
+        {
+          "title": "Vynesenie sutiny - príplatok za každé poschodie bez výťahu",
+          "description": "Vynesenie odpadu v bytovke bez výťahu. Cena za jedno poschodie.",
+          "prices": [
+            {
+              "amount": "33,00 €"
+            }
+          ]
+        },
+        {
+          "title": "Odvoz a likvidácia stavebného odpadu do 2,5 t",
+          "description": "Subdodávkou regionálnym správcom.",
+          "prices": [
+            {
+              "amount": "200 €"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rezanie",
+      "title": "Rezanie, búranie panelu a priečok",
+      "items": [
+        {
+          "title": "Otvor 70 × 203 v paneli 8 cm hrúbky",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "250 €"
+            }
+          ]
+        },
+        {
+          "title": "Otvor 70 × 203 v paneli 15 cm hrúbky",
+          "description": "S použitím techniky. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "500 €"
+            }
+          ]
+        },
+        {
+          "title": "Vybúranie panelo-oceľovej polpriečky pri sporáku v Petržalských bytoch",
+          "description": "S použitím techniky na rezanie a sekanie. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "200 €"
+            }
+          ]
+        },
+        {
+          "title": "Vyrezanie celého panelu 8 cm hrúbky - za každých 50 cm šírky",
+          "description": "50 cm pás od zeme po strop z 8 cm panelu. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "200 €"
+            }
+          ]
+        },
+        {
+          "title": "Vyrezanie celého panelu 15 cm hrúbky - za každých 33 cm šírky",
+          "description": "33 cm pás od zeme po strop z 15 cm panelu. Bez likvidácie odpadu.",
+          "prices": [
+            {
+              "amount": "350 €"
+            }
+          ]
+        },
+        {
+          "title": "Vynesenie panelovej sutiny",
+          "description": "Vynesenie panelov a odpadovej sutiny z bytu pred bytovku. Práca do 3 hodín. Bez odvozu.",
+          "prices": [
+            {
+              "amount": "130 €"
+            }
+          ]
+        },
+        {
+          "title": "Vynesenie panelov - príplatok za každé poschodie bez výťahu",
+          "description": "Vynesenie panelov v bytovke bez výťahu. Cena za jedno poschodie.",
+          "prices": [
+            {
+              "amount": "60,00 €"
+            }
+          ]
+        },
+        {
+          "title": "Odvoz a likvidácia panelovej sutiny do 2,5 t",
+          "description": "Subdodávkou regionálnym správcom.",
+          "prices": [
+            {
+              "amount": "250 €"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "murarske",
+      "title": "Murárske práce",
+      "items": [
+        {
+          "title": "Murovka Ytong / Porfix 5 cm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "15,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Murovka Ytong / Porfix 7,5 cm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "13,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Murovka Ytong / Porfix 10 cm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "13,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Murovka Ytong / Porfix 15 cm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "15,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie sklobetónu (sklenené tvárnice)",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie podomietkových líšt",
+          "description": "",
+          "prices": [
+            {
+              "amount": "3,50 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Špalety (otvory, výklenky okolo okien a dverí) vyrovnávanie",
+          "description": "Vnútorné špalety do 3 cm hrúbky.",
+          "prices": [
+            {
+              "amount": "10,00 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Špalety - finálna úprava",
+          "description": "Vnútorné špalety.",
+          "prices": [
+            {
+              "amount": "8,00 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie plastovej parapety",
+          "description": "",
+          "prices": [
+            {
+              "amount": "15,00 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Sieťkovanie stien",
+          "description": "",
+          "prices": [
+            {
+              "amount": "8,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Sieťkovanie stropov",
+          "description": "",
+          "prices": [
+            {
+              "amount": "12,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Penetrovanie stien a stropov 1x",
+          "description": "",
+          "prices": [
+            {
+              "amount": "0,60 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Vyrovnávanie podláh, stien a stropov do 2 cm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "9,50 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Vyrovnávanie podláh nivelizovaním",
+          "description": "",
+          "prices": [
+            {
+              "amount": "6,60 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Nanesenie cementového poteru do 5 cm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "8,80 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Cementový špric na stenu",
+          "description": "",
+          "prices": [
+            {
+              "amount": "2,60 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie oceľovej zárubne",
+          "description": "",
+          "prices": [
+            {
+              "amount": "40,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie vaničky kútu, podmurovanie",
+          "description": "",
+          "prices": [
+            {
+              "amount": "80,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie vane k obkladu a podmurovanie",
+          "description": "",
+          "prices": [
+            {
+              "amount": "80,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Obmurovanie vane presnými tvárnicami Ytong",
+          "description": "",
+          "prices": [
+            {
+              "amount": "80,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie vane pod obklad (precízne osadenie s podmurovaním)",
+          "description": "",
+          "prices": [
+            {
+              "amount": "110,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Osadenie púzdra JAP/Eclisse do pripraveného otvoru",
+          "description": "",
+          "prices": [
+            {
+              "amount": "80,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Omietnutie stavebného púzdra z oboch strán",
+          "description": "",
+          "prices": [
+            {
+              "amount": "330,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Inak nezaradené, nemerateľné práce",
+          "description": "",
+          "prices": [
+            {
+              "amount": "15,00 €",
+              "unit": "hod"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "omietka",
+      "title": "Omietka a stierka",
+      "items": [
+        {
+          "title": "Vyrovnávacia omietka pod obklad",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,90 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Hrubá omietka do 20 mm",
+          "description": "",
+          "prices": [
+            {
+              "amount": "7,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Štuková omietka na steny",
+          "description": "",
+          "prices": [
+            {
+              "amount": "12,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Štuková omietka na stropy",
+          "description": "",
+          "prices": [
+            {
+              "amount": "16,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Sanačná omietka",
+          "description": "",
+          "prices": [
+            {
+              "amount": "16,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Stierka hladká na steny - 2x nános, brúsenie",
+          "description": "",
+          "prices": [
+            {
+              "amount": "13,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Stierka hladká na stropy - 2x nános, brúsenie",
+          "description": "",
+          "prices": [
+            {
+              "amount": "17,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Štukové reliéfne obrazce na stenu",
+          "description": "Vrátane lepidla. Práca do 8 hodín.",
+          "prices": [
+            {
+              "amount": "500,00 €",
+              "unit": "ks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maliarske",
+      "title": "Maliarske práce",
+      "items": [
+        {
+          "title": "Náter omietky klasickou bielou oteruvzdornou farbou",
+          "description": "Zväčša sú potrebné 2–3 nátery.",
+          "prices": [
+            {
+              "amount": "1,33 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "2x Náter impregnovaného (zeleného) sadrokartónu",
+          "description": "",
+          "prices": [
+            {
+              "amount": "4,60 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Nástrek technológiou Airless - najvyššia kvalita maľovania",
+          "description": "Zväčša sú potrebné 2 priechody.",
+          "prices": [
+            {
+              "amount": "2,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Vápnovanie, penetrovanie",
+          "description": "",
+          "prices": [
+            {
+              "amount": "0,70 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Impregnovanie kameňa, betónu",
+          "description": "Zväčša sú potrebné na kameň a betón 2–3 nátery.",
+          "prices": [
+            {
+              "amount": "8,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Náter oceľovej zárubne",
+          "description": "",
+          "prices": [
+            {
+              "amount": "24,00 €",
+              "unit": "ks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obklad",
+      "title": "Pokládka obkladu a dlažby",
+      "items": [
+        {
+          "title": "Mozaika na páse",
+          "description": "",
+          "prices": [
+            {
+              "amount": "40,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Obklad kuchynský do 20 cm",
+          "description": "Bez lepidla a škárovacej hmoty.",
+          "prices": [
+            {
+              "amount": "25,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Obklad malý do cca 30 cm",
+          "description": "Bez lepidla a škárovacej hmoty.",
+          "prices": [
+            {
+              "amount": "25,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Obklad bežných rozmerov okolo cca 60 cm",
+          "description": "Bez lepidla a škárovacej hmoty.",
+          "prices": [
+            {
+              "amount": "25,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Veľkosť obkladu nad 60 cm",
+          "description": "Bez lepidla a škárovacej hmoty.",
+          "prices": [
+            {
+              "amount": "30,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Veľkoformátový obklad nad 90 cm",
+          "description": "Bez lepidla a škárovacej hmoty.",
+          "prices": [
+            {
+              "amount": "35,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Príplatok za montáž dekoru",
+          "description": "",
+          "prices": [
+            {
+              "amount": "10,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Vykrúženie otvoru do keramického obkladu",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,50 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Vykrúženie otvoru do gressu/mramoru, priamo na stavbe",
+          "description": "",
+          "prices": [
+            {
+              "amount": "8,50 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Vykrúženie otvoru vodným lúčom / laserom",
+          "description": "Bez dopravy, subdodávkou.",
+          "prices": [
+            {
+              "amount": "8,00 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Príplatok za dlažbu do šikminy, alebo \"H\" uloženie",
+          "description": "Vrátane rezania.",
+          "prices": [
+            {
+              "amount": "10,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Príplatok za obklad/dlažbu typu Gress",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,50 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Príplatok za obklad/dlažbu z Ukrajiny alebo Číny",
+          "description": "",
+          "prices": [
+            {
+              "amount": "10,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Montáž rohových líšt na obklad",
+          "description": "",
+          "prices": [
+            {
+              "amount": "8,50 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Montáž soklov",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,00 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Škárovanie obkladov a dlažby",
+          "description": "",
+          "prices": [
+            {
+              "amount": "3,30 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Kamenné obklady a bridlice na stenu",
+          "description": "Vrátane flexibilného lepidla.",
+          "prices": [
+            {
+              "amount": "25,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Použitie nivelačného systému Leveling na celú kúpeľňu",
+          "description": "",
+          "prices": [
+            {
+              "amount": "50,00 €"
+            }
+          ]
+        },
+        {
+          "title": "Použitie diamantovej techniky na vykružovanie dier a otvorov v obklade",
+          "description": "",
+          "prices": [
+            {
+              "amount": "150,00 €"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sadrokarton",
+      "title": "Sadrokartón",
+      "items": [
+        {
+          "title": "Podkrovie s materiálom",
+          "description": "Práca, RB doska, UD a CD lišty, kotvy a tmel.",
+          "prices": [
+            {
+              "amount": "33 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Strop s materiálom",
+          "description": "Práca, RB doska, UD a CD lišty, kotvy a tmel.",
+          "prices": [
+            {
+              "amount": "30 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Priečka s materiálom",
+          "description": "Práca, RB doska z oboch strán, lišty a tmel.",
+          "prices": [
+            {
+              "amount": "42 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Príplatok za vodeodolný sadrokartón",
+          "description": "",
+          "prices": [
+            {
+              "amount": "3,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Tmelenie akrylátom",
+          "description": "",
+          "prices": [
+            {
+              "amount": "2,00 €",
+              "unit": "bm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obluky",
+      "title": "Výroba oblúkov",
+      "items": [
+        {
+          "title": "Z tvrdeného polystyrénu",
+          "description": "Vrátane sieťky a lepidla.",
+          "prices": [
+            {
+              "amount": "od 53 €",
+              "unit": "ks"
+            }
+          ]
+        },
+        {
+          "title": "Nenosný z pórobetónu",
+          "description": "Vrátane sieťky a lepidla.",
+          "prices": [
+            {
+              "amount": "od 60 €",
+              "unit": "ks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podlaha",
+      "title": "Pokládka plávajúcej podlahy",
+      "items": [
+        {
+          "title": "Príprava a vysávanie podkladu",
+          "description": "",
+          "prices": [
+            {
+              "amount": "0,50 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Pokládka vinilovej podlahy",
+          "description": "",
+          "prices": [
+            {
+              "amount": "8,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Pokládka podlahy s lepením pera a drážky",
+          "description": "",
+          "prices": [
+            {
+              "amount": "14,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Pokládka laminátovej podlahy, click systému",
+          "description": "",
+          "prices": [
+            {
+              "amount": "6,90 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Príplatok za pokládku podlahy diagonálne",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,00 €",
+              "unit": "m²"
+            }
+          ]
+        },
+        {
+          "title": "Lištovanie (obvodové lišty)",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,00 €",
+              "unit": "bm"
+            }
+          ]
+        },
+        {
+          "title": "Ukončovanie lišty bez prechodových prvkov (rezanie uhlov)",
+          "description": "",
+          "prices": [
+            {
+              "amount": "5,00 €",
+              "unit": "ks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ostatne",
+      "title": "Ostatné",
+      "items": [
+        {
+          "title": "Osadenie sanity",
+          "description": "",
+          "prices": [
+            {
+              "amount": "50,00 €",
+              "unit": "hod"
+            }
+          ]
+        },
+        {
+          "title": "Montáž kúpeľňových doplnkov",
+          "description": "",
+          "prices": [
+            {
+              "amount": "50,00 €",
+              "unit": "hod"
+            }
+          ]
+        },
+        {
+          "title": "Demontáž sanity a doplnkov",
+          "description": "",
+          "prices": [
+            {
+              "amount": "25,00 €",
+              "unit": "hod"
+            }
+          ]
+        },
+        {
+          "title": "Doprava a preprava osôb",
+          "description": "Precenenie každý mesiac podľa ceny PHM.",
+          "prices": [
+            {
+              "amount": "0,85 €",
+              "unit": "km"
+            }
+          ]
+        },
+        {
+          "title": "Doprava a preprava materiálu",
+          "description": "",
+          "prices": [
+            {
+              "amount": "33,00 €",
+              "unit": "jazda"
+            }
+          ]
+        },
+        {
+          "title": "Výjazd so zákazníkom na nákup",
+          "description": "",
+          "prices": [
+            {
+              "amount": "15,00 €",
+              "unit": "hod"
+            }
+          ]
+        },
+        {
+          "title": "Zameranie, odborné poradenstvo, kalkulácia",
+          "description": "Poplatok za zameranie bude odrátaný pri fakturácii na konci zákazky.",
+          "prices": [
+            {
+              "amount": "100,00 €"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "komplety",
+      "title": "Orientačné ceny kompletov",
+      "note": "Na cenu vplýva spôsob stavby aj materiál, rozloha, konečná úprava stien, zásahy do panelu, upratovanie, likvidácia stavebného odpadu, zúčastnené profesie a počet pracovníkov. Pri rekonštrukcii na kľúč cenu určujú aj obklady, doplnky, sanita, dvere, vypínače a svietidlá. Môžu byť v lacnejšom aj luxusnom prevedení, preto je cena stanovená na štandardné prevedenie.",
+      "items": [
+        {
+          "title": "Rekonštrukcia bytového jadra bez murovania",
+          "description": "Panelové bytové jadro typu T v prevedení štandard. Kúpeľňa, WC, kuchyňa, chodba.",
+          "prices": [
+            {
+              "amount": "3 600 €"
+            }
+          ]
+        },
+        {
+          "title": "Rekonštrukcia bytového jadra typu T vrátane murovania",
+          "description": "Umakartové bytové jadro typu T v prevedení štandard. Kúpeľňa, WC, kuchyňa, chodba.",
+          "prices": [
+            {
+              "amount": "5 000 €"
+            }
+          ]
+        },
+        {
+          "title": "Rekonštrukcia panelovej/tehlovej kúpeľne s WC na kľúč, už aj so sanitou",
+          "description": "Rekonštrukcia panelovej alebo tehlovej kúpeľne s WC. Obklady, dlažba a sanita v kategórii štandard.",
+          "prices": [
+            {
+              "amount": "5 500 €"
+            }
+          ]
+        },
+        {
+          "title": "Rekonštrukcia bytového jadra na kľúč, už aj so sanitou",
+          "description": "Rekonštrukcia umakartového jadra s murovaním aj so sanitou. Obklady, dlažba a sanita v kategórii štandard.",
+          "prices": [
+            {
+              "amount": "6 000 €"
+            }
+          ]
+        },
+        {
+          "title": "Kompletná rekonštrukcia 1i bytu, alebo garsónky, bez sanity a podláh",
+          "description": "Sanácie, elektroinštalácia, kúpeľňa, stierky, maľovanie.",
+          "prices": [
+            {
+              "amount": "8 500 €"
+            }
+          ]
+        },
+        {
+          "title": "Kompletná rekonštrukcia 2i bytu, bez sanity, doplnkov a podláh",
+          "description": "Sanácie, elektroinštalácia, kúpeľňa, stierky, maľovanie.",
+          "prices": [
+            {
+              "amount": "12 500 €"
+            }
+          ]
+        },
+        {
+          "title": "Kompletná rekonštrukcia 3i bytu, bez sanity, doplnkov a podláh",
+          "description": "Sanácie, elektroinštalácia, voda, odpad, kúpeľňa, kuchyňa, stierky, špalety, maľovanie.",
+          "prices": [
+            {
+              "amount": "16 000 €"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
