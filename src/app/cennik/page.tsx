@@ -5,7 +5,7 @@ import { ContactCta } from "@/components/contact-cta";
 import { CennikPageScroll } from "@/components/cennik-page-scroll";
 import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
-import { priceCategories, priceIntro } from "@/lib/cennik";
+import { getPricing } from "@/lib/cennik";
 
 export const metadata: Metadata = {
   title: "Cenník — ProfiDepo",
@@ -33,6 +33,8 @@ function InfoIcon() {
 }
 
 export default function CennikPage() {
+  const { note: priceIntro, categories: priceCategories } = getPricing();
+
   return (
     <>
       <CennikPageScroll />

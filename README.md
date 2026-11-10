@@ -23,6 +23,10 @@ npm run build
 npm start
 ```
 
+## Admin (Cenník)
+
+See [ADMIN_SETUP.md](ADMIN_SETUP.md). Pricing content lives in `content/pricing.json` and is edited at `/admin/cennik`.
+
 ## Contact form
 
 The homepage form posts the existing fields to `/api/kontakt`. That route checks the values and forwards them to the Basin endpoint in `src/app/api/kontakt/route.ts`. Basin sends the notification to the address configured in that Basin account.
